@@ -19,3 +19,4 @@ dependencies:
   - bokeh
   - ipympl
   - cmcrameri
+  - netCDF4
