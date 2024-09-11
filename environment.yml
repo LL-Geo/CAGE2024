@@ -9,6 +9,7 @@ dependencies:
   - ensaio
   - boule
   - simpeg
+  - pyproj
   - psutil
   - toolz
   - matplotlib
