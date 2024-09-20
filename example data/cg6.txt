@@ -1,0 +1,24 @@
+/		CG-6 Survey
+/		Survey Name:	A
+/		Instrument Serial Number:	000000020010232
+/		Created:	2020-01-23 15:23:55
+/
+/		CG-6 Calibration
+/		Operator:	OperatorName
+/		Gcal1 [mGal]:	7985.023000
+/		Goff [ADU]:	-8388608.000000
+/		Gref [mGal]:	0.0000
+/		X Scale [arc-sec/ADU]:	0.030894
+/		Y Scale [arc-sec/ADU]:	0.031097
+/		X Offset [ADU]:	-228684.678017
+/		Y Offset [ADU]:	-219836.919200
+/		Temperature Coefficient [mGal/mK]:	-0.127000
+/		Temperature Scale [mK/ADU]:	-0.000111
+/		Drift Rate [mGal/day]:	0.000000
+/		Drift Zero Time:	2020-01-09 13:10:18
+/		Firmware Version:	CG6_2_20190125
+/
+/Station	Date	Time	CorrGrav	Line	StdDev	StdErr	RawGrav	X	Y	SensorTemp	TideCorr	TiltCorr	TempCorr	DriftCorr	MeasurDur	InstrHeight	LatUser	LonUser	ElevUser	LatGPS	LonGPS	ElevGPS	Corrections[drift-temp-na-tide-tilt]
+1	2020-01-23	15:23:55	4218.2021	0	0.0235	0.0030	4218.1425	9.1	1.3	0.9139	-0.0572	0.0010	0.1158	0.0000	60	0.000	43.700000	-79.600000	200.00	43.784672	-79.357224	141.2	01011
+1	2020-01-23	15:24:55	4218.2043	0	0.0191	0.0025	4218.1447	8.5	0.7	0.9088	-0.0570	0.0008	0.1157	0.0000	60	0.000	43.700000	-79.600000	200.00	43.784634	-79.357300	141.2	01011
+1	2020-01-23	15:25:55	4218.2021	0	0.0191	0.0025	4218.1426	9.1	0.8	0.9100	-0.0568	0.0009	0.1154	0.0000	60	0.000	43.700000	-79.600000	200.00	43.784523	-79.357567	127.2	01011

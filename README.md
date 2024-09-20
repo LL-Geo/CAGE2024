@@ -11,6 +11,7 @@ Lecture and tutorial for CAGE2024 (Camp for Applied Geophysics Excellence), run 
 #### 5.Gravity inversion
 
 ## Example series
+#### example_load_cg6: load CG6 file
 #### example_point_source: Interactive notebook to See how gravity changes with point source
 #### example_2d_simpeg: run inversion for a 2d profile
 #### example_sea_ice: real-world example to get free air gravity in Antarctica
