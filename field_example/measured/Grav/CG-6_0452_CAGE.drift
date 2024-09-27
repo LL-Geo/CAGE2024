@@ -1,0 +1,23 @@
+/		CG-6 Survey
+/		Survey Name:	CAGE
+/		Instrument Serial Number:	000000022080452
+/		Created:	2024-09-24 08:49:10
+/
+/		CG-6 Calibration
+/		Operator:	LM
+/		Gcal1 [mGal]:	8087.702000
+/		Goff [ADU]:	-8388608.000000
+/		Gref [mGal]:	0.0000
+/		X Scale [arc-sec/ADU]:	0.030963
+/		Y Scale [arc-sec/ADU]:	0.030451
+/		X Offset [ADU]:	-173675.180000
+/		Y Offset [ADU]:	-243520.340000
+/		Temperature Coefficient [mGal/mK]:	-0.128000
+/		Temperature Scale [mK/ADU]:	-0.000111
+/		Drift Rate [mGal/day]:	0.000000
+/		Drift Zero Time:	2023-07-31 16:24:12
+/		Firmware Version:	CG6_2_20190125
+/
+/Station	Date	Time	CorrGrav	Line	StdDev	StdErr	RawGrav	X	Y	SensorTemp	TideCorr	TiltCorr	TempCorr	DriftCorr	MeasurDur	InstrHeight	LatUser	LonUser	ElevUser	LatGPS	LonGPS	ElevGPS	Corrections[drift-temp-na-tide-tilt]
+104	2024-09-24	08:49:10	3406.0329	100	0.0706	0.0129	3402.4934	-1.0	4.1	26.8779	0.0992	0.0002	3.4401	0.0000	30	0.000	-32.118130	115.843430	5.00	-32.453655	118.884499	328.6	01011
+104	2024-09-24	08:49:40	3406.0370	100	0.0726	0.0133	3402.4975	-0.1	4.1	26.8779	0.0993	0.0002	3.4401	0.0000	30	0.000	-32.118130	115.843430	5.00	-32.453587	118.884422	329.0	01011
