@@ -5,16 +5,16 @@ dependencies:
   - python=3.9
   - numpy
   - harmonica
-  - verde
+  - verde=1.8.0
   - ensaio
   - boule
   - simpeg
-  - pyproj
+  - pyproj=3.4.1
   - psutil
   - toolz
   - matplotlib
   - dill
-  - pandas
+  - pandas=1.5.3
   - partd
   - bokeh
   - ipympl
