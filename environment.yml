@@ -22,3 +22,11 @@ dependencies:
   - netCDF4
   - ipykernel
   - rioxarray
+singleuser:
+  memory:
+    guarantee: 1G
+    limit: 4G
+  cpu:
+    guarantee: 1
+    limit: 2
+
