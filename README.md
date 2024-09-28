@@ -16,5 +16,6 @@ Lecture and tutorial for CAGE2024 (Camp for Applied Geophysics Excellence), run 
 #### example_2d_simpeg: run inversion for a 2d profile
 #### example_sea_ice: real-world example to get free air gravity in Antarctica
 
+## The filed example is in field_example
 ## About CAGE
 https://www.aseg.org.au/news/cage-2024-applications-open 
